@@ -52,21 +52,6 @@ Or drag-and-drop.
 
 ### Step 2: Upload Your Excel File
 
-The first code cell will prompt you to upload:
-
-```python
-from google.colab import files
-uploaded = files.upload()
-Upload your `.xls` or `.xlsx` file
-
-### Step 3: Run All Cells
-
-Simply run:
-Runtime → Run all
-
-This will perform all:
-
-* Cleaning
 * Transformations
 * Encoding
 * Visualizations

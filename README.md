@@ -1,6 +1,6 @@
 
 
-#  Google Search Data Analysis — Excel Dataset | Google Colab Project
+#  Google Search Data Analysis 
 
 A complete data analysis project performed in **Google Colab** using an **Excel (.xls/.xlsx) dataset**.
 This project includes data uploading, cleaning, preprocessing, encoding, visualization, and exporting the final cleaned dataset.
